@@ -20,7 +20,8 @@ body {
 }
 
 .main_info{
-    background: linear-gradient(45deg , rgb(157, 111, 157), #c34ec3, rgb(120, 40, 139), fuchsia);
+    /*изменен цвет Градиент*/
+    background: linear-gradient(45deg , rgb(206, 24, 167), #c34ec3, rgb(120, 40, 139), fuchsia);
     background-size: 400% 400%;
     background-position: 0 center;
     animation: info_anim 5s infinite;
